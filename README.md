@@ -1,29 +1,33 @@
 # ToDoList
 
-#Overview
+Overview
+
 The Daily Goals application is a web-based tool that allows users to manage their daily tasks. Users can add, view, and delete tasks, which are stored in the browser's local storage.
 
-#Features
-Add Tasks: Users can add tasks with a title and description.
+Features
 
-View Tasks: All saved tasks are displayed on the page.
+->Add Tasks: Users can add tasks with a title and description.
 
-Delete Tasks: Users can remove tasks from the list.
+->View Tasks: All saved tasks are displayed on the page.
 
-Persistent Storage: Tasks are saved in local storage and persist across page reloads.
+->Delete Tasks: Users can remove tasks from the list.
 
-#File Structure
-index.html: Defines the HTML structure of the application.
+->Persistent Storage: Tasks are saved in local storage and persist across page reloads.
 
-style.css: Contains the styles for the application.
+File Structure
 
-index.js: Implements the functionality for adding, displaying, and deleting tasks.
+->index.html: Defines the HTML structure of the application.
 
-#Usage
-Open index.html in your web browser.
+->style.css: Contains the styles for the application.
 
-Enter a task title and description.
+->index.js: Implements the functionality for adding, displaying, and deleting tasks.
 
-Click "ADD" to add the task to the list.
+Usage
+
+->Open index.html in your web browser.
+
+->Enter a task title and description.
+
+->Click "ADD" to add the task to the list.
 
 To delete a task, click the "-" button next to the task.
