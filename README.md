@@ -1,4 +1,4 @@
-# ToDoList
+# Daily Goals
 
 Overview
 
@@ -30,4 +30,4 @@ Usage
 
 ->Click "ADD" to add the task to the list.
 
-To delete a task, click the "-" button next to the task.
+->To delete a task, click the "-" button next to the task.
